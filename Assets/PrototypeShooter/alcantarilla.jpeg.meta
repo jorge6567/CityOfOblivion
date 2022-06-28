@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: ccdafe3aff4b75f47aa8e704dc311e0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4208494789421760110
+    second: alcantarilla_0
+  - first:
+      213: -6286103766726471886
+    second: alcantarilla_1
+  - first:
+      213: -5983397529176185584
+    second: alcantarilla_2
+  - first:
+      213: 3384857529423387143
+    second: alcantarilla_3
+  - first:
+      213: 3168224067922679224
+    second: alcantarilla_4
+  - first:
+      213: 8190849253438209673
+    second: alcantarilla_5
+  - first:
+      213: -2394405166252545160
+    second: alcantarilla_6
+  - first:
+      213: 623638662217046161
+    second: alcantarilla_7
+  - first:
+      213: -8223840946626234741
+    second: alcantarilla_8
+  - first:
+      213: -1651761762068612856
+    second: alcantarilla_9
+  - first:
+      213: -4283412016722559386
+    second: alcantarilla_10
+  - first:
+      213: 5378548423743817010
+    second: alcantarilla_11
+  - first:
+      213: -2184290138748192646
+    second: alcantarilla_12
+  - first:
+      213: 3657642108423100505
+    second: alcantarilla_13
+  - first:
+      213: 3158208317261531775
+    second: alcantarilla_14
+  - first:
+      213: 4830641378710924428
+    second: alcantarilla_15
+  - first:
+      213: 2801757803743819886
+    second: alcantarilla_16
+  - first:
+      213: 2081788698247591057
+    second: alcantarilla_17
+  - first:
+      213: 2393638614609924186
+    second: alcantarilla_18
+  - first:
+      213: -586114817471272593
+    second: alcantarilla_19
+  - first:
+      213: 8743402647801148029
+    second: alcantarilla_20
+  - first:
+      213: -2652189694891722512
+    second: alcantarilla_21
+  - first:
+      213: 2794780557133753497
+    second: alcantarilla_22
+  - first:
+      213: -6065810367851501901
+    second: alcantarilla_23
+  - first:
+      213: -8154477938367624986
+    second: alcantarilla_24
+  - first:
+      213: 2018788160370472530
+    second: alcantarilla_25
+  - first:
+      213: -4599628676061186145
+    second: alcantarilla_26
+  - first:
+      213: -2519758990421755435
+    second: alcantarilla_27
+  - first:
+      213: 5568871773332179465
+    second: alcantarilla_28
+  - first:
+      213: -7907814541749655751
+    second: alcantarilla_29
+  - first:
+      213: -3921379080492093757
+    second: alcantarilla_30
+  - first:
+      213: 107250272351926624
+    second: alcantarilla_31
+  - first:
+      213: -7091234196615033034
+    second: alcantarilla_32
+  - first:
+      213: -6605302370170104311
+    second: alcantarilla_33
+  - first:
+      213: 1590412043323038114
+    second: alcantarilla_34
+  - first:
+      213: -2057961939031295972
+    second: alcantarilla_35
+  - first:
+      213: -3596838900029701310
+    second: alcantarilla_36
+  - first:
+      213: 3044508051296416556
+    second: alcantarilla_37
+  - first:
+      213: 1381424852894195071
+    second: alcantarilla_38
+  - first:
+      213: -2717879781931356952
+    second: alcantarilla_39
+  - first:
+      213: -1012999800040651263
+    second: alcantarilla_40
+  - first:
+      213: 763092914862915609
+    second: alcantarilla_41
+  - first:
+      213: 811982925483155361
+    second: alcantarilla_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alcantarilla_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 299
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910f6d594c6895c0800000000000000
+      internalID: -4208494789421760110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f060bede543c8a0800000000000000
+      internalID: -6286103766726471886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 400
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e08b06a3b6fca0800000000000000
+      internalID: -5983397529176185584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 298
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a56904dfd69fe20800000000000000
+      internalID: 3384857529423387143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 501
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5df59f00bc7fb20800000000000000
+      internalID: 3168224067922679224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 501
+        width: 197
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e35ffbffdbba170800000000000000
+      internalID: 8190849253438209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2829ff2d55ced0800000000000000
+      internalID: -2394405166252545160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19895a12f0c97a800800000000000000
+      internalID: 623638662217046161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f7071b3c0fdd80800000000000000
+      internalID: -8223840946626234741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b356cd63c319e0800000000000000
+      internalID: -1651761762068612856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 300
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebc9c17734e84c0800000000000000
+      internalID: -4283412016722559386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cc7c6b4174aa40800000000000000
+      internalID: 5378548423743817010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78768111b7dfa1e0800000000000000
+      internalID: -2184290138748192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 103
+        width: 199
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d11c5e1e82c230800000000000000
+      internalID: 3657642108423100505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 100
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ace0d4bb534db20800000000000000
+      internalID: 3158208317261531775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_15
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 100
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2e577db2e90340800000000000000
+      internalID: 4830641378710924428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 101
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6834dec0e7d1e620800000000000000
+      internalID: 2801757803743819886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19478709acff3ec10800000000000000
+      internalID: 2081788698247591057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_18
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a509b7053a9e73120800000000000000
+      internalID: 2393638614609924186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69280bcda3bdd7f0800000000000000
+      internalID: -586114817471272593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b566326ec65970800000000000000
+      internalID: 8743402647801148029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 201
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f60f3687813bd0800000000000000
+      internalID: -2652189694891722512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c202dfb1e09c620800000000000000
+      internalID: 2794780557133753497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66455cb99e1dba0800000000000000
+      internalID: -6065810367851501901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_24
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 200
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e886d2f48975de80800000000000000
+      internalID: -8154477938367624986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 101
+        width: 197
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25675a7c22d240c10800000000000000
+      internalID: 2018788160370472530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_26
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 205
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973ca8c616da20c0800000000000000
+      internalID: -4599628676061186145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d970586c84080dd0800000000000000
+      internalID: -2519758990421755435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 605
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0a296f5b984d40800000000000000
+      internalID: 5568871773332179465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e759529cc14290800000000000000
+      internalID: -7907814541749655751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 504
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceee9da0867499c0800000000000000
+      internalID: -3921379080492093757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 503
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b991fd870d7100800000000000000
+      internalID: 107250272351926624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 502
+        width: 298
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f88a3b110e69d90800000000000000
+      internalID: -7091234196615033034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_33
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 298
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90617ff9d704554a0800000000000000
+      internalID: -6605302370170104311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_34
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 203
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d5c8b357421610800000000000000
+      internalID: 1590412043323038114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 406
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f3ce1586a073e0800000000000000
+      internalID: -2057961939031295972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_36
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 402
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434c69c316751ec0800000000000000
+      internalID: -3596838900029701310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_37
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 401
+        width: 289
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f65131f3404a20800000000000000
+      internalID: 3044508051296416556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_38
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 305
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d97a8a59ecb2310800000000000000
+      internalID: 1381424852894195071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_39
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 302
+        width: 189
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece3cffcb6284ad0800000000000000
+      internalID: -2717879781931356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_40
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 302
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10609098c0a11f1f0800000000000000
+      internalID: -1012999800040651263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_41
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 204
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910850986fc079a00800000000000000
+      internalID: 763092914862915609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alcantarilla_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 204
+        width: 177
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1b1d2b2eb44b00800000000000000
+      internalID: 811982925483155361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
