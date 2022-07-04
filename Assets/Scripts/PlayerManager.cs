@@ -9,6 +9,7 @@ public class PlayerManager : MonoBehaviour
     public static bool isGameOver;
     public GameObject GameOverScreen;
     private float a;
+    public GameObject player;
 
     private void Awake()  
     {
@@ -28,6 +29,10 @@ public class PlayerManager : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void CambiarAnimator()
+    {
+
+    }
     public void ExitButton()
     {
         SceneManager.LoadScene("Menu");

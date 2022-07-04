@@ -32,12 +32,14 @@ public class Movimiento : MonoBehaviour
         {
             anim.SetFloat("Correr", -2);
         }
+
     }
+
     private void FixedUpdate()
     {
         playerrb.MovePosition(playerrb.position + moveInput * speed * Time.fixedDeltaTime);
         Vector2 lookDir = mousePos - playerrb.position;
-        float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg + 90f;
+        float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg;
         playerrb.rotation = angle;
     }
 }

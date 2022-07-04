@@ -22,7 +22,7 @@ public class ManagerEnemigo : MonoBehaviour
     }
     public void TakeHit(float damage)
     {
-        PuntosVida -= damage;
+        PuntosVida -= damage;   
         //(if(gameObject.layer == Zombie) Hacer un sistema para cambiar de animacion mediante menos vida tenga el zombie como si se le estuviera saliendo las partes del cuerpo
         //{
         //    if (PuntosVida >= 2)

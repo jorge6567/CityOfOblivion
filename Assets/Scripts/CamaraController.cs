@@ -11,7 +11,6 @@ public class CamaraController : MonoBehaviour
     public Vector2 maxCameraPos;
 
 
-
     void FixedUpdate() //Para que los comando se ejecuten en cada frame
     {
         transform.position = new Vector3(player.transform.position.x, player.transform.position.y, -10);

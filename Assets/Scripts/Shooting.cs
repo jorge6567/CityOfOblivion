@@ -13,7 +13,14 @@ public class Shooting : MonoBehaviour
 
     public TMPro.TextMeshProUGUI textoContBalas;
 
-    int Municion = 0;
+    private Animator anim; 
+
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
+
+    int Municion = 20;
 
     void Update()
     {
@@ -22,6 +29,7 @@ public class Shooting : MonoBehaviour
             if(Municion > 0)
             {
                 Shoot();
+                anim.Play("HGDisparo");
             }
             else
             {
@@ -45,6 +53,7 @@ public class Shooting : MonoBehaviour
         {
             Destroy(collision.gameObject);
             Municion += 5;
+            anim.Play("HGReload");
         }
     }
 }
