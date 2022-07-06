@@ -40,7 +40,7 @@ public class ManagerEnemigo : MonoBehaviour
             }
             if (gameObject.layer == Zombie)
             {
-                Debug.Log("Zombie");
+                anim.Play("muerte");
             }
             if (gameObject.layer == Wolf)
             {
@@ -54,7 +54,7 @@ public class ManagerEnemigo : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
-        if (collision.gameObject.tag == "Player1")
+        if (collision.gameObject.tag == "Player")
         {
             int Slime = LayerMask.NameToLayer("Slime");
             int Wolf = LayerMask.NameToLayer("Wolf");
@@ -75,10 +75,27 @@ public class ManagerEnemigo : MonoBehaviour
         var player = collision.collider.GetComponent<Life>();
         if (player)
         {
-            gameObject.GetComponent<FollowPlayer>().enabled = false;
-            gameObject.GetComponent<IA_Movimiento>().enabled = false;
-            player.TakeHit(1);
-            gameObject.GetComponent<ManagerEnemigo>().enabled = false;
+            int Slime = LayerMask.NameToLayer("Slime");
+            int Wolf = LayerMask.NameToLayer("Wolf");
+            int Zombie = LayerMask.NameToLayer("Zombie");
+            if (gameObject.layer == Slime)
+            {
+                gameObject.GetComponent<IA_Movimiento>().enabled = false;
+            }
+            if (gameObject.layer == Zombie)
+            {
+                gameObject.GetComponent<FollowPlayer>().enabled = false;
+                gameObject.GetComponent<IA_Movimiento>().enabled = false;
+                player.TakeHit(1);
+                gameObject.GetComponent<ManagerEnemigo>().enabled = false;
+            }
+            if (gameObject.layer == Wolf)
+            {
+                gameObject.GetComponent<FollowPlayer>().enabled = false;
+                gameObject.GetComponent<IA_Movimiento>().enabled = false;
+                player.TakeHit(1);
+                gameObject.GetComponent<ManagerEnemigo>().enabled = false;
+            }
         }
     }
     IEnumerator EsperarDañoPersonaje(float time)

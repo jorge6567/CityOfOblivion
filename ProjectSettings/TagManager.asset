@@ -8,6 +8,10 @@ TagManager:
   - Player1
   - Bullet
   - Municion
+  - R
+  - door
+  - key
+  - player
   layers:
   - Default
   - TransparentFX

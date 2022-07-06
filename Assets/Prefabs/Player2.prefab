@@ -40,13 +40,14 @@ GameObject:
   m_Component:
   - component: {fileID: 6179824802124083854}
   - component: {fileID: 6179824802124083855}
-  - component: {fileID: 6179824802124083852}
   - component: {fileID: 6179824802124083853}
   - component: {fileID: 6179824802124083842}
   - component: {fileID: 6179824802124083848}
   - component: {fileID: 6179824802124083849}
   - component: {fileID: 6179824802124083851}
   - component: {fileID: 1278932809127147281}
+  - component: {fileID: 5295585055947527982}
+  - component: {fileID: 8069070298132517219}
   m_Layer: 0
   m_Name: Player2
   m_TagString: Player
@@ -120,83 +121,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!60 &6179824802124083852
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6179824802124083840}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.53, y: 2.16}
-    newSize: {x: 2.53, y: 2.16}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.345, y: -0.78}
-      - {x: 0.42765746, y: -0.6935105}
-      - {x: 0.5386165, y: -0.7247872}
-      - {x: 0.6755296, y: -0.6912762}
-      - {x: 0.73489046, y: -0.65521276}
-      - {x: 0.78446865, y: -0.56872326}
-      - {x: 0.7737999, y: -0.5286083}
-      - {x: 0.77925014, y: -0.49393606}
-      - {x: 0.719254, y: -0.49085113}
-      - {x: 0.70552963, y: -0.42308494}
-      - {x: 0.775, y: -0.35999998}
-      - {x: 0.835, y: -0.13}
-      - {x: 0.825, y: 0.14999999}
-      - {x: 0.745, y: 0.21}
-      - {x: 0.655, y: 0.29}
-      - {x: 0.445, y: 0.42999998}
-      - {x: 0.155, y: 0.47}
-      - {x: 0.074999996, y: 0.52}
-      - {x: -0.015, y: 0.59}
-      - {x: -0.125, y: 0.68}
-      - {x: -0.475, y: 0.68}
-      - {x: -0.59499997, y: 0.59999996}
-      - {x: -0.84499997, y: 0.42}
-      - {x: -0.92499995, y: 0.22}
-      - {x: -0.92499995, y: -0.049999997}
-      - {x: -0.865, y: -0.17}
-      - {x: -0.835, y: -0.32}
-      - {x: -0.835, y: -0.59999996}
-      - {x: -0.745, y: -0.7}
-      - {x: -0.655, y: -0.78999996}
-      - {x: -0.42499998, y: -0.85999995}
-      - {x: -0.085, y: -0.85999995}
-      - {x: 0.085, y: -0.84}
-      - {x: 0.125, y: -0.83}
-      - {x: 0.175, y: -0.82}
-    - - {x: 0.074999996, y: -0.45999998}
-      - {x: 0.085, y: -0.45999998}
-      - {x: 0.33499998, y: -0.35999998}
-      - {x: 0.435, y: -0.21}
-      - {x: 0.445, y: -0.12}
-      - {x: 0.39499998, y: -0.07}
-      - {x: 0.415, y: -0.07}
-      - {x: 0.42499998, y: -0.08}
-      - {x: 0.45499998, y: -0.08}
-      - {x: 0.435, y: -0.26999998}
-      - {x: 0.435, y: -0.39}
-      - {x: 0.45499998, y: -0.41}
-      - {x: 0.435, y: -0.41}
-      - {x: 0.155, y: -0.45999998}
-      - {x: 0.155, y: -0.47}
-      - {x: 0.035, y: -0.48}
-      - {x: 0.044999998, y: -0.48999998}
 --- !u!95 &6179824802124083853
 Animator:
   serializedVersion: 3
@@ -283,6 +207,7 @@ MonoBehaviour:
   Enemigos: {fileID: 0}
   PuntosJugador: 0
   VidaJugador: 1
+  Sangre: {fileID: 0}
 --- !u!114 &1278932809127147281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -298,3 +223,34 @@ MonoBehaviour:
   MySetGun: 0
   anim: {fileID: 0}
   Animators: []
+--- !u!58 &5295585055947527982
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6179824802124083840}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.037865162, y: -0.09781647}
+  serializedVersion: 2
+  m_Radius: 0.90212107
+--- !u!114 &8069070298132517219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6179824802124083840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c777099cc3bde45bbc96a76dbd1a61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nokey: {fileID: 0}
+  key: {fileID: 0}
+  BtnPuerta: {fileID: 0}

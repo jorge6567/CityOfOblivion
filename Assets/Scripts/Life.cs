@@ -8,6 +8,7 @@ public class Life : MonoBehaviour
     public GameObject Enemigos;
     public float PuntosJugador;
     public float VidaJugador = 1;
+    [SerializeField] private GameObject Sangre;
     public void Start()
     {
         PuntosJugador = VidaJugador;
@@ -19,7 +20,8 @@ public class Life : MonoBehaviour
         PuntosJugador -= damage;
         if (PuntosJugador <= 0)
         {
-            PlayerManager.isGameOver = true;    
+            Sangre.SetActive(true);
+            StartCoroutine(EsperarAtaquePJ(1f));
             gameObject.GetComponent<Shooting>().enabled = false;
             gameObject.GetComponent<Movimiento>().enabled = false;
             cam.GetComponent<CamaraController>().enabled = false;
@@ -27,5 +29,9 @@ public class Life : MonoBehaviour
             Enemigos.GetComponent<FollowPlayer>().enabled = false;
         }
     }
-
+    IEnumerator EsperarAtaquePJ(float time)
+    {
+        yield return new WaitForSeconds(0.8f);
+        PlayerManager.isGameOver = true;
+    }
 }

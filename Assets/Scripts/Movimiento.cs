@@ -5,7 +5,7 @@ using UnityEngine;
 public class Movimiento : MonoBehaviour
 {
     public Camera cam;
-    [SerializeField] private float speed = 5f;
+    public float speed = 5f;
 
     private Rigidbody2D playerrb;
     private Vector2 moveInput;
@@ -35,7 +35,25 @@ public class Movimiento : MonoBehaviour
 
     }
 
-    private void FixedUpdate()
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        int Slime = LayerMask.NameToLayer("Slime");
+        if (collision.gameObject.layer == Slime)
+        {
+            speed = 2f;
+        }
+    }
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        int Slime = LayerMask.NameToLayer("Slime");
+        if (collision.gameObject.layer == Slime)
+        {
+            speed = 5f;
+        }
+    }
+
+
+    void FixedUpdate()
     {
         playerrb.MovePosition(playerrb.position + moveInput * speed * Time.fixedDeltaTime);
         Vector2 lookDir = mousePos - playerrb.position;

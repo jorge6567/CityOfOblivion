@@ -15,7 +15,8 @@ GameObject:
   - component: {fileID: 6700978885741010136}
   - component: {fileID: 6700978885741010139}
   - component: {fileID: 9041924311353700858}
-  - component: {fileID: 6794168827887225795}
+  - component: {fileID: 6937215722875955843}
+  - component: {fileID: 8266368268607276457}
   m_Layer: 0
   m_Name: Slime
   m_TagString: Enemies
@@ -56,7 +57,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 470619325713218702, guid: a651a03715626864c94cd26ddff68714, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -102,8 +103,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PersonajeEnemigo: {fileID: 6700978885741010137}
   speed: 3
-  startWaitTime: 0.1
+  startWaitTime: 0.3
   moveSpots:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -160,8 +164,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PuntosVida: 0
-  VidaMaxima: 5
-  pj: {fileID: 5057784908943339165, guid: 1ea7bb052dc035848a3117c06b2230e6, type: 3}
+  VidaMaxima: 2
+  pj: {fileID: 0}
 --- !u!114 &9041924311353700858
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -178,7 +182,21 @@ MonoBehaviour:
   Distance: 6
   SpeedEnemy: 3
   posPlayer: {fileID: 5355746265711429474, guid: 1ea7bb052dc035848a3117c06b2230e6, type: 3}
---- !u!60 &6794168827887225795
+--- !u!114 &6937215722875955843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6700978885741010129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23218b4e25ed6fc45a7aaf9543b15ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cursor: {fileID: 11400000, guid: 2f7f86fe615a2634dacd3324a136b412, type: 2}
+  defaultCursor: {fileID: 11400000, guid: ad0f448938fe3d14ba389a4650e9b9d1, type: 2}
+--- !u!60 &8266368268607276457
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -203,14 +221,11 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.06252506, y: 0.09235113}
-      - {x: -0.25539666, y: -0.025951028}
-      - {x: -0.28798157, y: -0.13414446}
-      - {x: -0.21180804, y: -0.22480817}
-      - {x: 0.052775204, y: -0.2366043}
-      - {x: 0.16515699, y: -0.22345734}
-      - {x: 0.22030213, y: -0.1975059}
-      - {x: 0.25539452, y: -0.16211829}
-      - {x: 0.28296834, y: -0.12673053}
-      - {x: 0.28296837, y: -0.06572128}
-      - {x: 0.17560108, y: 0.06875883}
+    - - {x: -0.1627907, y: 0.13953489}
+      - {x: -0.3255814, y: 0}
+      - {x: -0.3255814, y: -0.18604651}
+      - {x: -0.20930232, y: -0.27906978}
+      - {x: 0.25581396, y: -0.27906978}
+      - {x: 0.3255814, y: -0.20930232}
+      - {x: 0.3255814, y: -0.023255814}
+      - {x: 0.25581396, y: 0.13953489}

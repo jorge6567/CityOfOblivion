@@ -1,0 +1,3516 @@
+fileFormatVersion: 2
+guid: 6e720fab49efce24e957b0916bab7b1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5020789215304445507
+    second: SMS_Adv_Agent_Free_SpriteSheet_0
+  - first:
+      213: -1637241384837745989
+    second: SMS_Adv_Agent_Free_SpriteSheet_1
+  - first:
+      213: 8510750215696786315
+    second: SMS_Adv_Agent_Free_SpriteSheet_2
+  - first:
+      213: -7512161071310907031
+    second: SMS_Adv_Agent_Free_SpriteSheet_3
+  - first:
+      213: 2867735658380638459
+    second: SMS_Adv_Agent_Free_SpriteSheet_4
+  - first:
+      213: 3451917938782219765
+    second: SMS_Adv_Agent_Free_SpriteSheet_5
+  - first:
+      213: 8435207490822480694
+    second: SMS_Adv_Agent_Free_SpriteSheet_6
+  - first:
+      213: 4813753398403223611
+    second: SMS_Adv_Agent_Free_SpriteSheet_7
+  - first:
+      213: -475137305156058665
+    second: SMS_Adv_Agent_Free_SpriteSheet_8
+  - first:
+      213: 3213746033740292780
+    second: SMS_Adv_Agent_Free_SpriteSheet_9
+  - first:
+      213: -2004895859800429906
+    second: SMS_Adv_Agent_Free_SpriteSheet_10
+  - first:
+      213: 1392990829913402641
+    second: SMS_Adv_Agent_Free_SpriteSheet_11
+  - first:
+      213: 3732275281684629263
+    second: SMS_Adv_Agent_Free_SpriteSheet_12
+  - first:
+      213: 724976769880771706
+    second: SMS_Adv_Agent_Free_SpriteSheet_13
+  - first:
+      213: -8628047079273615534
+    second: SMS_Adv_Agent_Free_SpriteSheet_14
+  - first:
+      213: 3497296029272325748
+    second: SMS_Adv_Agent_Free_SpriteSheet_15
+  - first:
+      213: -4828986184531651637
+    second: SMS_Adv_Agent_Free_SpriteSheet_16
+  - first:
+      213: -3828151461759690515
+    second: SMS_Adv_Agent_Free_SpriteSheet_17
+  - first:
+      213: -2062606567956521405
+    second: SMS_Adv_Agent_Free_SpriteSheet_18
+  - first:
+      213: -1916883407271452509
+    second: SMS_Adv_Agent_Free_SpriteSheet_19
+  - first:
+      213: 833128018579566060
+    second: SMS_Adv_Agent_Free_SpriteSheet_20
+  - first:
+      213: -2158593564992747448
+    second: SMS_Adv_Agent_Free_SpriteSheet_21
+  - first:
+      213: 7461984251247111855
+    second: SMS_Adv_Agent_Free_SpriteSheet_22
+  - first:
+      213: 845683950912491176
+    second: SMS_Adv_Agent_Free_SpriteSheet_23
+  - first:
+      213: -3933356027928355688
+    second: SMS_Adv_Agent_Free_SpriteSheet_24
+  - first:
+      213: 7498822795934207188
+    second: SMS_Adv_Agent_Free_SpriteSheet_25
+  - first:
+      213: 8426388437608082110
+    second: SMS_Adv_Agent_Free_SpriteSheet_26
+  - first:
+      213: -6244953241399237182
+    second: SMS_Adv_Agent_Free_SpriteSheet_27
+  - first:
+      213: -515474794994058498
+    second: SMS_Adv_Agent_Free_SpriteSheet_28
+  - first:
+      213: 7778024612892716349
+    second: SMS_Adv_Agent_Free_SpriteSheet_29
+  - first:
+      213: 8822335469920328873
+    second: SMS_Adv_Agent_Free_SpriteSheet_30
+  - first:
+      213: 4395659755464720380
+    second: SMS_Adv_Agent_Free_SpriteSheet_31
+  - first:
+      213: 3082641651156227226
+    second: SMS_Adv_Agent_Free_SpriteSheet_32
+  - first:
+      213: 767584839630335686
+    second: SMS_Adv_Agent_Free_SpriteSheet_33
+  - first:
+      213: 1817257647650275504
+    second: SMS_Adv_Agent_Free_SpriteSheet_34
+  - first:
+      213: -3445021872073091180
+    second: SMS_Adv_Agent_Free_SpriteSheet_35
+  - first:
+      213: 4827006107338424083
+    second: SMS_Adv_Agent_Free_SpriteSheet_36
+  - first:
+      213: 3125727882773171561
+    second: SMS_Adv_Agent_Free_SpriteSheet_37
+  - first:
+      213: -306679823078727332
+    second: SMS_Adv_Agent_Free_SpriteSheet_38
+  - first:
+      213: -7611068047664700642
+    second: SMS_Adv_Agent_Free_SpriteSheet_39
+  - first:
+      213: -7741719152429792813
+    second: SMS_Adv_Agent_Free_SpriteSheet_40
+  - first:
+      213: -7630998025154981726
+    second: SMS_Adv_Agent_Free_SpriteSheet_41
+  - first:
+      213: -5531620432716727149
+    second: SMS_Adv_Agent_Free_SpriteSheet_42
+  - first:
+      213: -8402732610736530641
+    second: SMS_Adv_Agent_Free_SpriteSheet_43
+  - first:
+      213: -7181890526643834980
+    second: SMS_Adv_Agent_Free_SpriteSheet_44
+  - first:
+      213: 8892970605803715052
+    second: SMS_Adv_Agent_Free_SpriteSheet_45
+  - first:
+      213: 1623485486189397761
+    second: SMS_Adv_Agent_Free_SpriteSheet_46
+  - first:
+      213: 4691038961663010585
+    second: SMS_Adv_Agent_Free_SpriteSheet_47
+  - first:
+      213: -8088143690379623577
+    second: SMS_Adv_Agent_Free_SpriteSheet_48
+  - first:
+      213: -5829428078232473521
+    second: SMS_Adv_Agent_Free_SpriteSheet_49
+  - first:
+      213: -3697180116719876650
+    second: SMS_Adv_Agent_Free_SpriteSheet_50
+  - first:
+      213: -5938993957798746237
+    second: SMS_Adv_Agent_Free_SpriteSheet_51
+  - first:
+      213: -2507294324700763107
+    second: SMS_Adv_Agent_Free_SpriteSheet_52
+  - first:
+      213: 3919273017365919875
+    second: SMS_Adv_Agent_Free_SpriteSheet_53
+  - first:
+      213: -1073173284248845221
+    second: SMS_Adv_Agent_Free_SpriteSheet_54
+  - first:
+      213: -765787716477869439
+    second: SMS_Adv_Agent_Free_SpriteSheet_55
+  - first:
+      213: -4000684946603986056
+    second: SMS_Adv_Agent_Free_SpriteSheet_56
+  - first:
+      213: 4155255890190151496
+    second: SMS_Adv_Agent_Free_SpriteSheet_57
+  - first:
+      213: -7838373064964165076
+    second: SMS_Adv_Agent_Free_SpriteSheet_58
+  - first:
+      213: -664495821894479443
+    second: SMS_Adv_Agent_Free_SpriteSheet_59
+  - first:
+      213: -7380941236618983074
+    second: SMS_Adv_Agent_Free_SpriteSheet_60
+  - first:
+      213: -5802057119013264106
+    second: SMS_Adv_Agent_Free_SpriteSheet_61
+  - first:
+      213: -6078329012397333567
+    second: SMS_Adv_Agent_Free_SpriteSheet_62
+  - first:
+      213: -3544981286464874059
+    second: SMS_Adv_Agent_Free_SpriteSheet_63
+  - first:
+      213: -8729990033489282356
+    second: SMS_Adv_Agent_Free_SpriteSheet_64
+  - first:
+      213: -4240830136898457148
+    second: SMS_Adv_Agent_Free_SpriteSheet_65
+  - first:
+      213: 1870046460733097679
+    second: SMS_Adv_Agent_Free_SpriteSheet_66
+  - first:
+      213: -9177557266504181534
+    second: SMS_Adv_Agent_Free_SpriteSheet_67
+  - first:
+      213: -779071069272340649
+    second: SMS_Adv_Agent_Free_SpriteSheet_68
+  - first:
+      213: -2039984614494471312
+    second: SMS_Adv_Agent_Free_SpriteSheet_69
+  - first:
+      213: -5338905324411271500
+    second: SMS_Adv_Agent_Free_SpriteSheet_70
+  - first:
+      213: -2507828045889121329
+    second: SMS_Adv_Agent_Free_SpriteSheet_71
+  - first:
+      213: -5268710005914315719
+    second: SMS_Adv_Agent_Free_SpriteSheet_72
+  - first:
+      213: 2366187906673062986
+    second: SMS_Adv_Agent_Free_SpriteSheet_73
+  - first:
+      213: -2055050391770440844
+    second: SMS_Adv_Agent_Free_SpriteSheet_74
+  - first:
+      213: 1215198042649098958
+    second: SMS_Adv_Agent_Free_SpriteSheet_75
+  - first:
+      213: -153151781689109178
+    second: SMS_Adv_Agent_Free_SpriteSheet_76
+  - first:
+      213: -4641961896203659093
+    second: SMS_Adv_Agent_Free_SpriteSheet_77
+  - first:
+      213: 3909745405941559508
+    second: SMS_Adv_Agent_Free_SpriteSheet_78
+  - first:
+      213: 7661712122457126247
+    second: SMS_Adv_Agent_Free_SpriteSheet_79
+  - first:
+      213: 3138466986539690092
+    second: SMS_Adv_Agent_Free_SpriteSheet_80
+  - first:
+      213: -3501957307846027412
+    second: SMS_Adv_Agent_Free_SpriteSheet_81
+  - first:
+      213: 6478974191675010447
+    second: SMS_Adv_Agent_Free_SpriteSheet_82
+  - first:
+      213: -2435644230710415470
+    second: SMS_Adv_Agent_Free_SpriteSheet_83
+  - first:
+      213: 4926128402597625620
+    second: SMS_Adv_Agent_Free_SpriteSheet_84
+  - first:
+      213: 4378134834500509472
+    second: SMS_Adv_Agent_Free_SpriteSheet_85
+  - first:
+      213: 8177251795347021642
+    second: SMS_Adv_Agent_Free_SpriteSheet_86
+  - first:
+      213: -5278381217728788149
+    second: SMS_Adv_Agent_Free_SpriteSheet_87
+  - first:
+      213: -4136907662386490608
+    second: SMS_Adv_Agent_Free_SpriteSheet_88
+  - first:
+      213: -7735407380792061862
+    second: SMS_Adv_Agent_Free_SpriteSheet_89
+  - first:
+      213: 8106958414984811216
+    second: SMS_Adv_Agent_Free_SpriteSheet_90
+  - first:
+      213: -6313817530559320397
+    second: SMS_Adv_Agent_Free_SpriteSheet_91
+  - first:
+      213: -5736301242090789229
+    second: SMS_Adv_Agent_Free_SpriteSheet_92
+  - first:
+      213: 4785960129627469359
+    second: SMS_Adv_Agent_Free_SpriteSheet_93
+  - first:
+      213: 8825911639523629556
+    second: SMS_Adv_Agent_Free_SpriteSheet_94
+  - first:
+      213: -4013929570364670311
+    second: SMS_Adv_Agent_Free_SpriteSheet_95
+  - first:
+      213: 38810882124643688
+    second: SMS_Adv_Agent_Free_SpriteSheet_96
+  - first:
+      213: 8886519721953642177
+    second: SMS_Adv_Agent_Free_SpriteSheet_97
+  - first:
+      213: 3314293308818637442
+    second: SMS_Adv_Agent_Free_SpriteSheet_98
+  - first:
+      213: 3504297406999757530
+    second: SMS_Adv_Agent_Free_SpriteSheet_99
+  - first:
+      213: 5233934934291369709
+    second: SMS_Adv_Agent_Free_SpriteSheet_100
+  - first:
+      213: -2224091114472435664
+    second: SMS_Adv_Agent_Free_SpriteSheet_101
+  - first:
+      213: -3300391560848877362
+    second: SMS_Adv_Agent_Free_SpriteSheet_102
+  - first:
+      213: 6528767908160374280
+    second: SMS_Adv_Agent_Free_SpriteSheet_103
+  - first:
+      213: -8343398997404215729
+    second: SMS_Adv_Agent_Free_SpriteSheet_104
+  - first:
+      213: 5351017538299085324
+    second: SMS_Adv_Agent_Free_SpriteSheet_105
+  - first:
+      213: -322197319467778342
+    second: SMS_Adv_Agent_Free_SpriteSheet_106
+  - first:
+      213: -4865897673367339565
+    second: SMS_Adv_Agent_Free_SpriteSheet_107
+  - first:
+      213: 6394228946499635069
+    second: SMS_Adv_Agent_Free_SpriteSheet_108
+  - first:
+      213: -4302144673320555950
+    second: SMS_Adv_Agent_Free_SpriteSheet_109
+  - first:
+      213: 59605932303024600
+    second: SMS_Adv_Agent_Free_SpriteSheet_110
+  - first:
+      213: -6600822076872485226
+    second: SMS_Adv_Agent_Free_SpriteSheet_111
+  - first:
+      213: -408482849512934964
+    second: SMS_Adv_Agent_Free_SpriteSheet_112
+  - first:
+      213: 3054900452274218434
+    second: SMS_Adv_Agent_Free_SpriteSheet_113
+  - first:
+      213: -2416606847441210984
+    second: SMS_Adv_Agent_Free_SpriteSheet_114
+  - first:
+      213: 8185612287534753065
+    second: SMS_Adv_Agent_Free_SpriteSheet_115
+  - first:
+      213: -6777152639390797223
+    second: SMS_Adv_Agent_Free_SpriteSheet_116
+  - first:
+      213: 773552132342410496
+    second: SMS_Adv_Agent_Free_SpriteSheet_117
+  - first:
+      213: -6042716183154985591
+    second: SMS_Adv_Agent_Free_SpriteSheet_118
+  - first:
+      213: -1846763407565112972
+    second: SMS_Adv_Agent_Free_SpriteSheet_119
+  - first:
+      213: -2520949256060467381
+    second: SMS_Adv_Agent_Free_SpriteSheet_120
+  - first:
+      213: -6054483629507249827
+    second: SMS_Adv_Agent_Free_SpriteSheet_121
+  - first:
+      213: 5419519628210002423
+    second: SMS_Adv_Agent_Free_SpriteSheet_122
+  - first:
+      213: -2406352797315590544
+    second: SMS_Adv_Agent_Free_SpriteSheet_123
+  - first:
+      213: 6977297080636302203
+    second: SMS_Adv_Agent_Free_SpriteSheet_124
+  - first:
+      213: 5995916415077703057
+    second: SMS_Adv_Agent_Free_SpriteSheet_125
+  - first:
+      213: 5857009137133513186
+    second: SMS_Adv_Agent_Free_SpriteSheet_126
+  - first:
+      213: -6615544664341584058
+    second: SMS_Adv_Agent_Free_SpriteSheet_127
+  - first:
+      213: 5192452638026447103
+    second: SMS_Adv_Agent_Free_SpriteSheet_128
+  - first:
+      213: 5985870785214668811
+    second: SMS_Adv_Agent_Free_SpriteSheet_129
+  - first:
+      213: 7339194981229453363
+    second: SMS_Adv_Agent_Free_SpriteSheet_130
+  - first:
+      213: -2091345286579521388
+    second: SMS_Adv_Agent_Free_SpriteSheet_131
+  - first:
+      213: -2567022315927604703
+    second: SMS_Adv_Agent_Free_SpriteSheet_132
+  - first:
+      213: -6474429320429199750
+    second: SMS_Adv_Agent_Free_SpriteSheet_133
+  - first:
+      213: 4333895427085167972
+    second: SMS_Adv_Agent_Free_SpriteSheet_134
+  - first:
+      213: -4715316889731546478
+    second: SMS_Adv_Agent_Free_SpriteSheet_135
+  - first:
+      213: 4070295821793502233
+    second: SMS_Adv_Agent_Free_SpriteSheet_136
+  - first:
+      213: 8732559540421481814
+    second: SMS_Adv_Agent_Free_SpriteSheet_137
+  - first:
+      213: -5990711785898570701
+    second: SMS_Adv_Agent_Free_SpriteSheet_138
+  - first:
+      213: -7520718234181642672
+    second: SMS_Adv_Agent_Free_SpriteSheet_139
+  - first:
+      213: 8628726875481546496
+    second: SMS_Adv_Agent_Free_SpriteSheet_140
+  - first:
+      213: -4055886953618255534
+    second: SMS_Adv_Agent_Free_SpriteSheet_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19aa95fc2925ab0800000000000000
+      internalID: -5020789215304445507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27d2d82a95749e0800000000000000
+      internalID: -1637241384837745989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83afa2ba324c1670800000000000000
+      internalID: 8510750215696786315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969def88e417fb790800000000000000
+      internalID: -7512161071310907031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8bf7b236e3cc720800000000000000
+      internalID: 2867735658380638459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda9e6831da7ef20800000000000000
+      internalID: 3451917938782219765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63320317580ef0570800000000000000
+      internalID: 8435207490822480694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 548
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3057242633edc240800000000000000
+      internalID: 4813753398403223611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d103aa6329f769f0800000000000000
+      internalID: -475137305156058665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca229639df4899c20800000000000000
+      internalID: 3213746033740292780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa1f086dd2d24e0800000000000000
+      internalID: -2004895859800429906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 548
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6d5887c5e45310800000000000000
+      internalID: 1392990829913402641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0788c02894bbc330800000000000000
+      internalID: 3732275281684629263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c4727f782af0a00800000000000000
+      internalID: 724976769880771706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fac8e05e4034880800000000000000
+      internalID: -8628047079273615534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e392b8534e88030800000000000000
+      internalID: 3497296029272325748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d8b576aefbfcb0800000000000000
+      internalID: -4828986184531651637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 548
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8db67278cafdac0800000000000000
+      internalID: -3828151461759690515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e509d21462063e0800000000000000
+      internalID: -2062606567956521405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 548
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0aeb972bcd565e0800000000000000
+      internalID: -1916883407271452509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced2cdfc48ddf8b00800000000000000
+      internalID: 833128018579566060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 548
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c920e6922b02e0800000000000000
+      internalID: -2158593564992747448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea427242b4e8760800000000000000
+      internalID: 7461984251247111855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 548
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae436e92197cbb00800000000000000
+      internalID: 845683950912491176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 548
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c503c4889e969c0800000000000000
+      internalID: -3933356027928355688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc82493a9b211860800000000000000
+      internalID: 7498822795934207188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa61b93ab80f470800000000000000
+      internalID: 8426388437608082110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c569773d187559a0800000000000000
+      internalID: -6244953241399237182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 548
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa36b1b76aa8d8f0800000000000000
+      internalID: -515474794994058498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d27b9fc2811fb60800000000000000
+      internalID: 7778024612892716349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 548
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1eedfd5b3f6a70800000000000000
+      internalID: 8822335469920328873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 548
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff74f52245800d30800000000000000
+      internalID: 4395659755464720380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949dfacf3eb7ca20800000000000000
+      internalID: 3082641651156227226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 505
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2425485207aa00800000000000000
+      internalID: 767584839630335686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 505
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08e89c332383910800000000000000
+      internalID: 1817257647650275504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 505
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d1af1cd2d030d0800000000000000
+      internalID: -3445021872073091180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 505
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3c84ea78fcf240800000000000000
+      internalID: 4827006107338424083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 529
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d8a35d2f0d06b20800000000000000
+      internalID: 3125727882773171561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 505
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ec9563547ebbf0800000000000000
+      internalID: -306679823078727332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 505
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ae919fed006690800000000000000
+      internalID: -7611068047664700642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 505
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18590c273ef8490800000000000000
+      internalID: -7741719152429792813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 505
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01ee41abf391690800000000000000
+      internalID: -7630998025154981726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 525
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c70a3368cbb33b0800000000000000
+      internalID: -5531620432716727149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 505
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b557ac53f736b80800000000000000
+      internalID: -8402732610736530641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 505
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa6a70e9cc45c90800000000000000
+      internalID: -7181890526643834980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 505
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9bbe426ad2a6b70800000000000000
+      internalID: 8892970605803715052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 505
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074256b277c78610800000000000000
+      internalID: 1623485486189397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 361
+        width: 66
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e079d41be91140800000000000000
+      internalID: 4691038961663010585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 520
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630b9a9a2421cf80800000000000000
+      internalID: -8088143690379623577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 523
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f3496c06b91fa0800000000000000
+      internalID: -5829428078232473521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 509
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d54648b54af0bcc0800000000000000
+      internalID: -3697180116719876650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 515
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e6362674749da0800000000000000
+      internalID: -5938993957798746237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 517
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cabdc881d443dd0800000000000000
+      internalID: -2507294324700763107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 505
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887ed94b0e046630800000000000000
+      internalID: 3919273017365919875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 510
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5488e975925b11f0800000000000000
+      internalID: -1073173284248845221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 494
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182aaf111206f55f0800000000000000
+      internalID: -765787716477869439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 473
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873ba63dc36ba78c0800000000000000
+      internalID: -4000684946603986056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 473
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f22a5773f6aa930800000000000000
+      internalID: 4155255890190151496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 473
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2232d51a31883390800000000000000
+      internalID: -7838373064964165076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 473
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19f35129c37c6f0800000000000000
+      internalID: -664495821894479443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 497
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e590b4b1d01a19990800000000000000
+      internalID: -7380941236618983074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 473
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61520b67ac3fa7fa0800000000000000
+      internalID: -5802057119013264106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 473
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c32b14b7ff65aba0800000000000000
+      internalID: -6078329012397333567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 473
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99ad45d42bdcec0800000000000000
+      internalID: -3544981286464874059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 473
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabb296158d8d680800000000000000
+      internalID: -8729990033489282356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 488
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17569957b8525c0800000000000000
+      internalID: -4240830136898457148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6097d195db3f910800000000000000
+      internalID: 1870046460733097679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 477
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e896387a44c2a080800000000000000
+      internalID: -9177557266504181534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 483
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570d3d7dfe2035f0800000000000000
+      internalID: -779071069272340649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 473
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b7bc92dc480b3e0800000000000000
+      internalID: -2039984614494471312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 461
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64609e4e568e5b0800000000000000
+      internalID: -5338905324411271500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc35407eda7623dd0800000000000000
+      internalID: -2507828045889121329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 441
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345ee81a28c1e6b0800000000000000
+      internalID: -5268710005914315719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 441
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b2115d5366d020800000000000000
+      internalID: 2366187906673062986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 441
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bdefa8e8efa73e0800000000000000
+      internalID: -2055050391770440844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 466
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca79df6e204dd010800000000000000
+      internalID: 1215198042649098958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 441
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645d3b71445efddf0800000000000000
+      internalID: -153151781689109178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 441
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d1e3ef30749fb0800000000000000
+      internalID: -4641961896203659093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 441
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0bc536bb4324630800000000000000
+      internalID: 3909745405941559508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 459
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657c56f49ed35a60800000000000000
+      internalID: 7661712122457126247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 453
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682dff88131e8b20800000000000000
+      internalID: 3138466986539690092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 452
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671147f16c866fc0800000000000000
+      internalID: -3501957307846027412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 446
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d66b343b0f9e950800000000000000
+      internalID: 6478974191675010447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 446
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa64d0a7ad23ed0800000000000000
+      internalID: -2435644230710415470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 441
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3bc2beaf1d5440800000000000000
+      internalID: 4926128402597625620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f9a258f6242cc30800000000000000
+      internalID: 4378134834500509472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 423
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9594de2f6b7170800000000000000
+      internalID: 8177251795347021642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 409
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498e20af3c6fb6b0800000000000000
+      internalID: -5278381217728788149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 409
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0139cda3660c696c0800000000000000
+      internalID: -4136907662386490608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 409
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5054fa98ff46a490800000000000000
+      internalID: -7735407380792061862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 414
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29806d9b3b18070800000000000000
+      internalID: 8106958414984811216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 409
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea0627860d068a0800000000000000
+      internalID: -6313817530559320397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 377
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396eb8c99609460b0800000000000000
+      internalID: -5736301242090789229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 377
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26b0ab71652b6240800000000000000
+      internalID: 4785960129627469359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 377
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99accdfdfeb7a70800000000000000
+      internalID: 8825911639523629556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3afc8258ab48c0800000000000000
+      internalID: -4013929570364670311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 384
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d757aaa42e98000800000000000000
+      internalID: 38810882124643688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 345
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6cc84ba92435b70800000000000000
+      internalID: 8886519721953642177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 345
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c699543cbefd20800000000000000
+      internalID: 3314293308818637442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 344
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20b83dce3c1a030800000000000000
+      internalID: 3504297406999757530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec1f7971ca2a840800000000000000
+      internalID: 5233934934291369709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 309
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03094c54ae07221e0800000000000000
+      internalID: -2224091114472435664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 314
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d7e39c57a232d0800000000000000
+      internalID: -3300391560848877362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 308
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068ed252d7da9a50800000000000000
+      internalID: 6528767908160374280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 313
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f461f5c21da463c80800000000000000
+      internalID: -8343398997404215729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 305
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c335a912a24a40800000000000000
+      internalID: 5351017538299085324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 265
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3a89be33578bf0800000000000000
+      internalID: -322197319467778342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 265
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3a81c8dbd87cb0800000000000000
+      internalID: -4865897673367339565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7781a8495ddcb850800000000000000
+      internalID: 6394228946499635069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa36e9636bb44c0800000000000000
+      internalID: -4302144673320555950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d18d659743c3d000800000000000000
+      internalID: 59605932303024600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69695723b4b2564a0800000000000000
+      internalID: -6600822076872485226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc131f93307c45af0800000000000000
+      internalID: -408482849512934964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52cf996cf256a20800000000000000
+      internalID: 3054900452274218434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 197
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917d7040ec767ed0800000000000000
+      internalID: -2416606847441210984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 194
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e49b9103299170800000000000000
+      internalID: 8185612287534753065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b284d497b2f1a0800000000000000
+      internalID: -6777152639390797223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 197
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de38fd0953cba00800000000000000
+      internalID: 773552132342410496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985fa88a5a5f32ca0800000000000000
+      internalID: -6042716183154985591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 197
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47934e3277afe56e0800000000000000
+      internalID: -1846763407565112972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470bb7120ac30dd0800000000000000
+      internalID: -2520949256060467381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d597dcc87372afba0800000000000000
+      internalID: -6054483629507249827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d6b45360063b40800000000000000
+      internalID: 5419519628210002423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769cb751eaea9ed0800000000000000
+      internalID: -2406352797315590544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7362bf3ab654d060800000000000000
+      internalID: 6977297080636302203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd3a73636c53350800000000000000
+      internalID: 5995916415077703057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96f0947c6484150800000000000000
+      internalID: 5857009137133513186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 139
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647603ead2dd034a0800000000000000
+      internalID: -6615544664341584058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 134
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83b9ad92c4f0840800000000000000
+      internalID: 5192452638026447103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00eb10c3c5121350800000000000000
+      internalID: 5985870785214668811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e28163fe0ad560800000000000000
+      internalID: 7339194981229453363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 80
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987db2da8c0af2e0800000000000000
+      internalID: -2091345286579521388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12272a8edca106cd0800000000000000
+      internalID: -2567022315927604703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e917806d43626a0800000000000000
+      internalID: -6474429320429199750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de911dde6152c30800000000000000
+      internalID: 4333895427085167972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 89
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292c6288544df8eb0800000000000000
+      internalID: -4715316889731546478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91422cc0c789c7830800000000000000
+      internalID: 4070295821793502233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65555ca82a8403970800000000000000
+      internalID: 8732559540421481814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c05c1fe57bcdca0800000000000000
+      internalID: -5990711785898570701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056dccbcc9a01a790800000000000000
+      internalID: -7520718234181642672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f91f450656fb770800000000000000
+      internalID: 8628726875481546496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Adv_Agent_Free_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25151700e4896b7c0800000000000000
+      internalID: -4055886953618255534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
